@@ -1,6 +1,6 @@
 {
   "name": "create-pbx",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "src/server.ts",
   "bin": {
@@ -19,7 +19,18 @@
     ".gitignore",
     "package.template.json"
   ],
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "scaffolding",
+    "boilerplate",
+    "express",
+    "prisma",
+    "better-auth",
+    "authentication",
+    "backend",
+    "typescript",
+    "postgresql"
+  ],
   "author": "",
   "license": "ISC",
   "type": "module",
