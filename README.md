@@ -34,6 +34,11 @@ Setting up auth on the backend is repetitive. You install packages, configure th
 ## Usage
 
 ```bash
+npm init pbx
+```
+Or
+
+```bash
 npx create-pbx my-app
 ```
 
