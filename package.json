@@ -1,7 +1,7 @@
 {
   "name": "create-pbx",
   "version": "1.1.1",
-  "description": "",
+  "description": "A CLI tool to scaffold an Express backend with Prisma and Better Auth.",
   "main": "src/server.ts",
   "bin": {
     "create-pbx": "./src/cli.js"
@@ -31,7 +31,7 @@
     "typescript",
     "postgresql"
   ],
-  "author": "",
+  "author": "Mehul Gupta",
   "license": "ISC",
   "type": "module",
   "dependencies": {
